@@ -1,8 +1,8 @@
 var connect = require('connect'),
-	listdir = require('./listdir');
+	listdir = require('./dirlist');
 
 
-var base = '/Users/lemendo/'
+var base = '/Users/lemendo/Music/';
 
 var host = "localhost";
 var port = 1337;
