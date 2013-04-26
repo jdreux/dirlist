@@ -12,7 +12,7 @@
 Use dirlist in your `connect` or `express` application by passing it the root folder you would like it to auto index.
 
 	var connect = require('connect'),
-		dirlist = require('../index');
+		dirlist = require('dirlist');
 
 	//Base folder that will be searchable from the url.
 	var base = '/Users/lemendo/Music/';
