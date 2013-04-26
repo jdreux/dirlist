@@ -1,7 +1,7 @@
 #DirList
 
 
-A simple & old school directory listing module for node. Inspired by Apache's mod_autoindex.
+### A simple & old school directory listing module for node. Inspired by Apache's mod_autoindex.
 
 Used as a `connect` or `express` middleware.
 
