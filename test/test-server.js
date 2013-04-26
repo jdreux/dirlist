@@ -1,5 +1,5 @@
 var connect = require('connect'),
-	listdir = require('./dirlist');
+	listdir = require('../index');
 
 
 var base = '/Users/lemendo/Music/';
