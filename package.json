@@ -10,7 +10,7 @@
     }
   ],
   "devDependencies": {
-    "connect": "*",
+    "connect": "*"
   },
   "keywords": [
     "dirlist",
