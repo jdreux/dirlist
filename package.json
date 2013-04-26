@@ -1,7 +1,7 @@
 {
   "name": "dirlist",
   "description": "A simple & old school directory listing middleware for node. Inspired by Apache's mod_autoindex.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Julien Dreux <julien.dreux@gmail.com>",
   "contributors": [
     {
